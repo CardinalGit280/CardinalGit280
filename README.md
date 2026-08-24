@@ -1,26 +1,24 @@
 <div align="center">
-  
-<!------- --Banner-- ------->
-![Banner](https://github.com/user-attachments/assets/7c258892-9b00-413f-af2c-ec7486151e20)
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@cardinalboy-fy3lu)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zachrjohnson08@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/)
-
----
-
-<!------- --GitHub Stats-- ------->
-[![Stats](https://github-readme-stats.vercel.app/api?username=CardinalGit280&show_icons=true&count_private=true&theme=dark)](#)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=CardinalGit280&card_width=300&theme=dark)](#)
-[![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=CardinalGit280&langs_count=10&card_width=770&layout=compact&theme=dark)](#)
-
----
-
-<!------- --Daily Quote-- ------->
-<h3>💡Random Developer Quote💡</h3>
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](#)
-
+  <!------- --Banner-- ------->
+  <img src="https://github.com/user-attachments/assets/7c258892-9b00-413f-af2c-ec7486151e20">
+  <a href="https://www.youtube.com/@cardinalboy-fy3lu">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <hr>
+  <!------- --GitHub Stats-- ------->
+  <img src="https://github-readme-stats.vercel.app/api?username=CardinalGit280&show_icons=true&count_private=true&theme=dark" alt="Stats">
+  <img src="https://streak-stats.demolab.com/?user=CardinalGit280&card_width=300&theme=dark" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CardinalGit280&langs_count=10&card_width=770&layout=compact&theme=dark" alt="Top Languages">
+  <hr>
+  <!------- --Daily Quote-- ------->
+  <h3>💡Random Developer Quote💡</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes">
 </div>
 
 <!------- --About Me-- ------->
