@@ -39,9 +39,11 @@ I'm a self-taught, passionate programmer and web developer. I have extensive exp
 [![Trophy](https://github-profile-trophy.vercel.app/?username=CardinalGit280&theme=darkhub&no-bg=true&no-frame=true&margin-w=4)](#)
 
 <div align="center">
-<br>
-<!-- <img src="https://komarev.com/ghpvc/?username=CardinalGit280&style=for-the-badge&color=ff0000"> --> 
-<img src="https://wakatime.com/badge/user/e7ff400a-7fa6-4f0f-be54-ea77ecaf95af.svg?&style=for-the-badge&color=ff0000">
-<img src="https://tokei.rs/b1/github/CardinalGit280/CardinalGit280?category=code&style=for-the-badge&color=ff0000">
-<p><br><sub>Made With ❤️<br>Copyright © 2024-present CardinalGit280</sub></p></p>
+  <br>
+  <!-- <img src="https://komarev.com/ghpvc/?username=CardinalGit280&style=for-the-badge&color=ff0000"> --> 
+  <img src="https://wakatime.com/badge/user/e7ff400a-7fa6-4f0f-be54-ea77ecaf95af.svg?&style=for-the-badge&color=ff0000">
+  <img src="https://tokei.rs/b1/github/CardinalGit280/CardinalGit280?category=code&style=for-the-badge&color=ff0000">
+  <p>
+    <sub>Made With ❤️<br>Copyright © 2024-present CardinalGit280</sub>
+  </p>
 </div>
