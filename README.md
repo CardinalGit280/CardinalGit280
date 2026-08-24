@@ -3,8 +3,6 @@
 <!------- --Banner-- ------->
 ![Banner](https://github.com/user-attachments/assets/7c258892-9b00-413f-af2c-ec7486151e20)
 
-<pre><img src="https://readme-typing-svg.herokuapp.com/?font=Monospace&size=40&center=true&vCenter=true&width=600&height=50&color=FFFFFFF8&duration=4500&lines=Hello,+I'm+Zach+Johnson!;"/></pre>
-
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@cardinalboy-fy3lu)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zachrjohnson08@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/)
