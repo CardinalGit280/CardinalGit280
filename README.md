@@ -36,7 +36,7 @@ I'm a self-taught, passionate programmer and web developer. I have extensive exp
 
 ## 🏆 GitHub Trophies
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=CardinalGit280&theme=darkhub&no-bg=true&no-frame=true&margin-w=4)](#)
+[![Trophy](https://github-profile-trophy-unserori.vercel.app/?username=CardinalGit280&theme=darkhub&no-bg=true&no-frame=true&margin-w=4)](#)
 
 <div align="center">
   <br>
