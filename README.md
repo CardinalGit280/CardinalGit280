@@ -23,7 +23,7 @@
 
 <!------- --About Me-- ------->
 ## ℹ️ About Me
-I'm a self-taught, passionate programmer and web developer. I have extensive experience in HTML and CSS. I strongly believe in and contribute to Open Source. Other than programming, I like to play videogames and watch [anime](https://anilist.co/user/ZachRJohnson208/animelist).
+I'm a self-taught, passionate programmer and web developer. I have extensive experience in HTML and CSS. I strongly believe in and contribute to Open Source.
 
 ## 🛠 Programming & Tool Stack
 
