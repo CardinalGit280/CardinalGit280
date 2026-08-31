@@ -11,15 +11,6 @@
   <a>
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <br><br>
-  <!------- --GitHub Stats-- ------->
-  <img src="https://github-stats-extended.vercel.app/api?username=CardinalGit280&show_icons=true&include_all_commits=true&theme=dark" alt="Stats">
-  <img src="https://streak-stats.demolab.com/?user=CardinalGit280&card_width=300&theme=dark" alt="GitHub Streak">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=CardinalGit280&layout=compact&langs_count=10&card_width=770&theme=dark" alt="Top Languages">
-  <br><br>
-  <!------- --Daily Quote-- ------->
-  <h3>💡Random Developer Quote💡</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes">
 </div>
 
 <!------- --About Me-- ------->
@@ -35,16 +26,9 @@ I'm a self-taught, passionate programmer and web developer. I have extensive exp
 | [![OS](https://img.shields.io/badge/-OS-black?style=flat)](#)     |  [![Win11](https://custom-icon-badges.demolab.com/badge/Windows_11-0078D6?style=flat&logo=windows11&logoColor=white)](#) |
 | [![TERMINAL](https://img.shields.io/badge/-TERMINAL-black?style=flat)](#) | [![WindowsTerminal](https://custom-icon-badges.demolab.com/badge/Windows_Terminal-4D4D4D?style=flat&logo=terminal&logoColor=white)](#) |
 
-## 🏆 GitHub Trophies
-
-[![Trophy](https://github-profile-trophy-unserori.vercel.app/?username=CardinalGit280&theme=darkhub&no-bg=true&no-frame=true&margin-w=4)](#)
-
+## 📊 GitHub Stats
 <div align="center">
-  <br>
-  <!-- <img src="https://komarev.com/ghpvc/?username=CardinalGit280&style=for-the-badge&color=ff0000"> --> 
-  <img src="https://wakatime.com/badge/user/e7ff400a-7fa6-4f0f-be54-ea77ecaf95af.svg?&style=for-the-badge&color=ff0000">
-  <img src="https://tokei.rs/b1/github/CardinalGit280/CardinalGit280?category=code&style=for-the-badge&color=ff0000">
-  <p>
-    <sub>Made With ❤️<br>Copyright © 2024-present CardinalGit280</sub>
-  </p>
+  <img src="https://github-stats-extended.vercel.app/api?username=CardinalGit280&show_icons=true&include_all_commits=true&theme=dark" alt="Stats">
+  <img src="https://streak-stats.demolab.com/?user=CardinalGit280&card_width=300&theme=dark" alt="GitHub Streak">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=CardinalGit280&layout=compact&langs_count=10&card_width=770&theme=dark" alt="Top Languages">
 </div>
