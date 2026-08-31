@@ -1,6 +1,7 @@
 <div align="center">
   <!------- --Banner-- ------->
-  <img src="https://github.com/user-attachments/assets/7c258892-9b00-413f-af2c-ec7486151e20">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=0:ff0000,100:990000&text=CardinalGit280&desc=Hello,%20fellow%20developers&fontColor=FFFFFF">
+  <br>
   <a href="https://www.youtube.com/@cardinalboy-fy3lu">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
