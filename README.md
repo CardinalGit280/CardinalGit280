@@ -10,12 +10,12 @@
   <a>
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <hr>
+  <br><br>
   <!------- --GitHub Stats-- ------->
-  <img src="https://github-readme-stats.vercel.app/api?username=CardinalGit280&show_icons=true&count_private=true&theme=dark" alt="Stats">
+  <img src="https://github-stats-extended.vercel.app/api?username=CardinalGit280&show_icons=true&include_all_commits=true&theme=dark" alt="Stats">
   <img src="https://streak-stats.demolab.com/?user=CardinalGit280&card_width=300&theme=dark" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CardinalGit280&langs_count=10&card_width=770&layout=compact&theme=dark" alt="Top Languages">
-  <hr>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=CardinalGit280&layout=compact&langs_count=10&card_width=770&theme=dark" alt="Top Languages">
+  <br><br>
   <!------- --Daily Quote-- ------->
   <h3>💡Random Developer Quote💡</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes">
