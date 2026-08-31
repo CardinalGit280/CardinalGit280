@@ -14,8 +14,19 @@
 </div>
 
 <!------- --About Me-- ------->
+
 ## ℹ️ About Me
+
+<img src="https://thumb.ac-illust.com/b9/b98eb0489ce12f88da14dca4fbe91d2d_t.jpeg" style="width: 45%" align="right">
+
 I'm a self-taught, passionate programmer and web developer. I have extensive experience in HTML and CSS. I strongly believe in and contribute to Open Source.
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
 
 ## 🛠 Programming & Tool Stack
 
