@@ -28,14 +28,10 @@ I'm a self-taught, passionate programmer and web developer. I have extensive exp
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
-## 🛠 Programming & Tool Stack
-
-| Category                                                          | Stack                                                                                    |
-| :-----------------------------------------------------------------|------------------------------------------------------------------------------------------|
-| [![Lang](https://img.shields.io/badge/-LANGUAGES-black?style=flat)](#) | [![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/-CSS3-254bdd?style=flat&logo=css3)](#) [![JavaScript](https://img.shields.io/badge/-JavaScript-C69D00?style=flat&logo=javascript&logoColor=white)](#) [![Java](https://custom-icon-badges.demolab.com/badge/Java-%23ED8B00?style=flat&logo=java&logoColor=white)](#) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffdd54)](#) |
-| [![IDE](https://img.shields.io/badge/-IDE-black?style=flat)](#)   |  [![VSCode](https://custom-icon-badges.demolab.com/badge/VSCode-0078d7.svg?&style=flat&logo=vsc&logoColor=white)](#) |
-| [![OS](https://img.shields.io/badge/-OS-black?style=flat)](#)     |  [![Win11](https://custom-icon-badges.demolab.com/badge/Windows_11-0078D6?style=flat&logo=windows11&logoColor=white)](#) |
-| [![TERMINAL](https://img.shields.io/badge/-TERMINAL-black?style=flat)](#) | [![WindowsTerminal](https://custom-icon-badges.demolab.com/badge/Windows_Terminal-4D4D4D?style=flat&logo=terminal&logoColor=white)](#) |
+## 🛠 Tech Stack
+<div align="center">
+  <img src="" alt="GitHub Readme Tech Stack">
+</div>
 
 ## 📊 GitHub Stats
 <div align="center">
