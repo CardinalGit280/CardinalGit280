@@ -29,9 +29,7 @@ I'm a self-taught, passionate programmer and web developer. I have extensive exp
 - 📫 How to reach me: ...
 
 ## 🛠 Tech Stack
-<div align="center">
-  <img src="" alt="GitHub Readme Tech Stack">
-</div>
+<img src="" alt="GitHub Readme Tech Stack">
 
 ## 📊 GitHub Stats
 <div align="center">
